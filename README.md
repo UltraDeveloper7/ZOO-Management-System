@@ -5,12 +5,14 @@
 2. [Features](#features)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Database](#database)
-7. [Troubleshooting](#troubleshooting)
-8. [Contributions](#contributions)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
+   - [Download through Git](#download-through-git)
+   - [Download through ZIP file](#download-through-zip-file)
+6. [Usage](#usage)
+7. [Database](#database)
+8. [Troubleshooting](#troubleshooting)
+9. [Contributions](#contributions)
+10. [License](#license)
+11. [Acknowledgments](#acknowledgments)
 
 ## Overview
 This graphical application serves as a comprehensive Zoo Management System, providing an intuitive interface for managing various aspects of a zoo. The system is built using CustomTkinter for a visually appealing and customized GUI. It incorporates SQLite3 for efficient and secure data storage.
